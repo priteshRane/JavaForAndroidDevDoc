@@ -1,4 +1,4 @@
-public class variables {
+public class Variables {
 
     int data = 50; // Instance Variable
     static int m = 100; // Static Variable
