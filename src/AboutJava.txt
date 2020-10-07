@@ -1,0 +1,43 @@
+Java is an object-oriented, class-based , concurrent, secured and general-prupose computer-programming language
+
+Java is programming language and platform
+
+Java is a high level, robust, object-oriented and secure programming language
+
+Developed by Sun Microsystems in 1995
+
+Before Java, its name was oak
+
+platform: Any hardware or Software envirnment in which a program runs
+
+Application
+1. Desktop application
+2. Web Application
+3. Enterprise Application
+4. Mobile
+5. Embedded System
+6. Smart Card
+7. Robotics
+8. Games
+
+Types of Java Applications
+1. Standalone Application
+2. Web Application
+3. Enterprice Application
+4. Mobile Application
+
+Java Platforms / Editions
+1. Java SE (Standard Edition)
+2. Java EE (Enterprise Edition)
+3. Java ME (Micro Edition)
+4. JavaFX
+
+Object-oriented
+1. Object
+2. Class
+3. Inheritance
+4. Polymorphism
+5. Abstraction
+6. Encapsulation
+
+
